@@ -4,7 +4,6 @@
 ## Write a short comment describing this function
 
 
-## this function returns a list of function
 
 makeCacheMatrix <- function(x = matrix()) {
 
