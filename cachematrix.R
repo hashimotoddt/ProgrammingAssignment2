@@ -3,13 +3,14 @@
 
 ## Write a short comment describing this function
 
-
+#this function will set/get matrix value and set/get inversevalue
 
 makeCacheMatrix <- function(x = matrix()) {
 
 ## setting value for the matrix, will store different variable including cahched.
 
   p<-Null
+  
   set <- function (y) {
     x<<-y
     p<<-NULL
